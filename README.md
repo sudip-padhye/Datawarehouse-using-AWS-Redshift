@@ -29,7 +29,7 @@ The log files in the dataset you'll be working with are partitioned by year and 
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 
-<img src="log-data.png" alt="drawing" width="800" height="400"/>
+<img src="log-data.png" alt="drawing" width="800" height="300"/>
 
 ## Schema for Song Play Analysis
 Using the song and event datasets, star schema is created, which is optimized for queries on song play analysis. This includes the following tables.
